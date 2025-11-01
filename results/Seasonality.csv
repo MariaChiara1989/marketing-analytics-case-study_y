@@ -1,0 +1,4 @@
+"bucket","avg_revenue","num_days","min_revenue","max_revenue"
+low_seasonality,43157.4005944056,286,32317.25,66587.37
+mid_seasonality,54725.14107594936,158,42035.89,72862.65
+high_seasonality,66233.14862676057,284,52839.17,84602.26
